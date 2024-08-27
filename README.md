@@ -1,6 +1,7 @@
 Hi there 👋
 I'm vishnu vardhan  a B.Tech student specializing in Artificial Intelligence and Machine Learning. I'm currently working on a project in email spam detection, and I'm passionate about leveraging technology to solve real-world problems.
 
+
 🎓 Education: B.Tech in Artificial Intelligence and Machine Learning, at malla reddy group of institutions of engineering and technology,passout in 2025
 🔭 Current Project: Email Spam Detection using machine learning algorithm(MINI PROJRCT)
 🌱 Learning: Python, SQL, HTML, CSS
