@@ -32,12 +32,12 @@
 
 ## 🛠️ Skills
 
-**AI/ML**: Generative AI, LLMs, RAG, Multi-Agent Systems, NLP, Prompt Engineering	
-**Frameworks**: LangChain, LlamaIndex, Streamlit
-**Databases**: FAISS, Pinecone, ChromaDB
-**Backend**: FastAPI, REST APIs, Docker
-**Programming**: Python, Pandas, NumPy
-**Tools**: Git, Cloud Deployment
+- **AI/ML**: Generative AI, LLMs, RAG, Multi-Agent Systems, NLP, Prompt Engineering	
+- **Frameworks**: LangChain, LlamaIndex, Streamlit
+- **Databases**: FAISS, Pinecone, ChromaDB
+- **Backend**: FastAPI, REST APIs, Docker
+- **Programming**: Python, Pandas, NumPy
+- **Tools**: Git, Cloud Deployment
   
 
 ---
