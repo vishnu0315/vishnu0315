@@ -1,6 +1,6 @@
-# Hi there 👋 I'm Vishnu Vardhan
+# Hi there 👋 I'm Vishnuvardhan
 
-🎓 Final-year B.Tech student specializing in Artificial Intelligence and Machine Learning (2025 Graduate)
+🎓 B.Tech graduate specializing in Artificial Intelligence and Machine Learning (2025)
 
 💡 Passionate about building real-world AI solutions using Machine Learning, Data Science, and Generative AI.
 
