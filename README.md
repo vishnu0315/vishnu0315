@@ -23,11 +23,6 @@
 - Enabled semantic search for context-aware responses
 - Improved response quality using prompt engineering
 
-🔹 **Multi-Agent AI Workflow System(currently working on )** 
-- Designed multi-agent system with planner, retriever, and decision agents
-- Implemented memory handling and task routing
-- Optimized inference cost and efficiency
-
   ---
 
 ## 🛠️ Skills
