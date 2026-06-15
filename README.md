@@ -47,7 +47,9 @@
 
 ## 📫 Connect with Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/vishnu-vardhan-rangu-94ba20235  
+- 🔗 LinkedIn: https://www.linkedin.com/in/vishnu-vardhan-rangu-94ba20235
+
+- v
 
 
 ---
